@@ -3,11 +3,10 @@ This is the source code of the letter "Loss Function Fusion for Learning Based C
 https://cloud.tsinghua.edu.cn/d/4bc4922be1a54bb5aad0/
 2. The folder is free to use, including dataset utilization, simulation result reproduction, model improvement, etc.
 3. For academic use, please cite the reference below:
-L. Yao, K. Ma, et al., Loss Function Fusion for Learning Based CSI Extrapolation Enhancement, submitted to IEEE, to be uploaded in Arxiv.
+L. Yao, K. Ma, et al., Loss Function Fusion for Learning Based CSI Extrapolation Enhancement, submitted to IEEE WCL (reject and resubmission allowed).
 4. Run `halving.py` to optimize the weight of the fused loss function by successive halving algorithm. 
 Run `main.py` to train and evaluate the model. 
 The loss function type could be set by modifying the corresponding lines in `main.py`. 
 Run `Figure1.m`, `Figure2.m` and `Figure3.m` to generate Figure 1, 2 and 3, respectively.
-
-Run `Figure_R1.m`, `Figure_R2.m` to generate Figure R1 and R2 in the Response to Reviewer 4, respectively.
-Mofify Line 12 of `main.py` to select different model structures and produce the simulation results shown in the responses to Reviewer 4.
+5. Run `Figure_R1.m`, `Figure_R2.m` to generate Figures comparing the performance of different loss functions under various simulation settings.
+Mofify Line 12 of `main.py` to select different model structures.
