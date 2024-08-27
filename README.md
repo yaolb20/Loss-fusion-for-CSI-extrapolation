@@ -1,6 +1,6 @@
 This is the source code of the letter "Loss Function Fusion for Learning Based CSI Extrapolation Enhancement"
 1. Due to storage restriction of Github, datasets, checkpoints and simulation records can be downloaded from Tsinghua Cloud:
-https://cloud.tsinghua.edu.cn/d/4bc4922be1a54bb5aad0/
+https://cloud.tsinghua.edu.cn/d/72c4ebe4b10f4eae97b5/
 2. The folder is free to use, including dataset utilization, simulation result reproduction, model improvement, etc.
 3. For academic use, please cite the reference below:
 L. Yao, K. Ma, et al., Loss Function Fusion for Learning Based CSI Extrapolation Enhancement, submitted to IEEE, to be uploaded in Arxiv.
